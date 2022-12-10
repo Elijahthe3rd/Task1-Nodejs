@@ -12,7 +12,7 @@
   "author": "Elijah",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "nodejs": "^0.0.0",
     "nodemon": "^1.19.1",
     "uuid": "^3.3.2"
